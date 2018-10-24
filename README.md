@@ -1,1 +1,1 @@
-# Repository to pull hw.
+# GH solutions. Algorithms.
